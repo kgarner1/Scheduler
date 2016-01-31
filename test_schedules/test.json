@@ -1,0 +1,144 @@
+{
+  "dept": [
+    {
+      "ACCT": [
+        {
+          "section": {
+            "beginTime": "1000",
+            "endTime": "1050",
+            "days": "MWF"
+          },
+          "course_id": "200"
+        },
+        {
+          "section": {
+            "beginTime": "1320",
+            "endTime": "1435",
+            "days": "TR"
+          },
+          "course_id": "215"
+        },
+        {
+          "section": {
+            "beginTime": "955",
+            "endTime": "1110",
+            "days": "TR"
+          },
+          "course_id": "215"
+        },
+        {
+          "section": {
+            "beginTime": "1715",
+            "endTime": "1830",
+            "days": "MW"
+          },
+          "course_id": "215"
+        },
+        {
+          "section": {
+            "beginTime": "1900",
+            "endTime": "2130",
+            "days": "W"
+          },
+          "course_id": "215"
+        },
+        {
+          "section": {
+            "beginTime": "930",
+            "endTime": "1045",
+            "days": "MW"
+          },
+          "course_id": "216"
+        },
+        {
+          "section": {
+            "beginTime": "1100",
+            "endTime": "1215",
+            "days": "MW"
+          },
+          "course_id": "216"
+        },
+        {
+          "section": {
+            "beginTime": "1230",
+            "endTime": "1345",
+            "days": "MW"
+          },
+          "course_id": "301"
+        },
+        {
+          "section": {
+            "beginTime": "955",
+            "endTime": "1110",
+            "days": "TR"
+          },
+          "course_id": "302"
+        },
+        {
+          "section": {
+            "beginTime": "1320",
+            "endTime": "1435",
+            "days": "TR"
+          },
+          "course_id": "317"
+        },
+        {
+          "section": {
+            "beginTime": "1710",
+            "endTime": "1800",
+            "days": "T"
+          },
+          "course_id": "320"
+        },
+        {
+          "section": {
+            "beginTime": "1715",
+            "endTime": "1830",
+            "days": "MW"
+          },
+          "course_id": "340"
+        },
+        {
+          "section": {
+            "beginTime": "1900",
+            "endTime": "2015",
+            "days": "W"
+          },
+          "course_id": "341"
+        },
+        {
+          "section": {
+            "beginTime": "1230",
+            "endTime": "1345",
+            "days": "MF"
+          },
+          "course_id": "416"
+        },
+        {
+          "section": {
+            "beginTime": "1400",
+            "endTime": "1515",
+            "days": "MF"
+          },
+          "course_id": "416"
+        },
+        {
+          "section": {
+            "beginTime": "1710",
+            "endTime": "1825",
+            "days": "TR"
+          },
+          "course_id": "417"
+        },
+        {
+          "section": {
+            "beginTime": "1900",
+            "endTime": "2130",
+            "days": "R"
+          },
+          "course_id": "447"
+        }
+      ]
+    }
+  ]
+}

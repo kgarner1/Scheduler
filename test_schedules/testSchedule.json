@@ -1,0 +1,43 @@
+{
+  "DEPT": [
+    {
+      "ACCT": [
+        {
+          "course_id": 200,
+          "section": [
+            {
+              "days": "MWF",
+              "beginTime": 1000,
+              "endTime": 1050
+            }
+          ]
+        },
+        {
+          "course_id": 215,
+          "section": [
+            {
+              "days": "TR",
+              "beginTime": 1320,
+              "endTime": 1435
+            },
+            {
+              "days": "TR",
+              "beginTime": 955,
+              "endTime": 1110
+            },
+            {
+              "days": "MW",
+              "beginTime": 1715,
+              "endTime": 1830
+            },
+            {
+              "days": "W",
+              "beginTime": 1900,
+              "endTime": 2130
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Static Sandbox</title>
+        <script src="js/jquery-2.1.4.min.js"></script>
+    </head>
+    <body>
+        <form action="action.php" method="post">
+            <div name="classes">
+                <p> Select classes and class numbers, then click "COMPILE" to generate
+                    schedules.</p>
+                <p>First Class: <t/>
+                <select id="dept1" name="dept1">
+                    <option value="placeholder" selected>Select Dept</option>
+                </select>
+                <select id="course1" name="course1">
+                    <option value="placeholder" selected>Select a Dept first</option>
+                </select>
+                <div id="title1"></div>
+                </p>
+                <input type="submit" value="Compile Schedules">
+
+                <input type="button" value="Add Class">
+
+                <script src="js/classes.js" type="text/javascript"></script>
+            </div>
+        </form>
+    </body>
+</html>
